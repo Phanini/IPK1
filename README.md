@@ -1,5 +1,5 @@
 #<!-- AUTHOR -->
-Jakub Phan, xphanj00
+Jakub Phan, xphanj00<br />
 2BIT FIT VUT
 
 #<!-- ABOUT THE PROJECT -->
