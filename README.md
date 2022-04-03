@@ -21,3 +21,7 @@ GET http://servername:12345/hostname
 GET http://servername:12345/cpu-name
 GET http://servername:12345/load
 ```
+## Evaluation
+| Basic tests | Unsupported call tests | Wrong call tests | Documentation |
+|:-----------:|:----------------------:|:----------------:|:-------------:|
+|    10/10    |           5/5          |        2/2       |      3/3      |
