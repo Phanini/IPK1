@@ -17,7 +17,7 @@ Server understands 3 request types that are sent by GET command. HOSTNAME, CPU-N
 
 example:<br />
 ```
-GET http://servername:12345/hostname<br />
-GET http://servername:12345/cpu-name<br />
+GET http://servername:12345/hostname
+GET http://servername:12345/cpu-name
 GET http://servername:12345/load
 ```
