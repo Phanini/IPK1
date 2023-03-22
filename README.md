@@ -13,14 +13,14 @@ example:<br />
 ./hinfosvc [port_number]
 ```
 
-Server understands 3 request types that are sent by GET command. HOSTNAME, CPU-NAME and LOAD.
-(use http://localhost:[port_number] for testing)
+Server understands 3 request types that are sent by GET command. HOSTNAME, CPU-NAME and LOAD. Open up another terminal window to enter commands.
+(use ```http://localhost:[port_number]``` for testing)
 
 example:<br />
 ```
-GET http://servername:12345/hostname
-GET http://servername:12345/cpu-name
-GET http://servername:12345/load
+GET http://servername:[port_number]/hostname
+GET http://servername:[port_number]/cpu-name
+GET http://servername:[port_number]/load
 ```
 ## Evaluation
 | Basic tests | Unsupported call tests | Wrong call tests | Documentation |
